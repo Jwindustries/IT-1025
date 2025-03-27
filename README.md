@@ -1,2 +1,2 @@
 # practice
-practice for week two of it 1025
+practice for week two of IT 1025
