@@ -15,3 +15,4 @@ Module 10 task 3 is a python program that compares a number to 100 and prints ou
 
 Python.png is a screenshot of the Module 10 task 3 program which shows both the code and the resultant output by the program.
 
+JohnathonWhiteFlowerClass.pdf This is a visualization of an OOP (Object Oriented Programmming) Class. The object is a flower and contains attributes and methods that might relate to a flower shop IT system.
