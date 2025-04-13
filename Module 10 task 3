@@ -1,0 +1,10 @@
+#Johnathon White
+#The purpose of the code is as follows, this is module 10 task 3's hands on practice where we set an int variable, in this case 75 and use and if else statement to see whether it is larger or smaller than 100 and 
+# then print out the result either greater or less than 100.  (I added this third line in to allow for better readaility for the screenshot)
+print("This is my IT 1025 module 10 task 3 program in Python")
+Num1 = 75
+print("The number is ", Num1)
+if Num1 > 100:
+    print(Num1, " is greater than 100")
+else:
+    print(Num1, " is less than 100")
