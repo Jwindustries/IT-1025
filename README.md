@@ -13,5 +13,5 @@ PasswordLogic.pdf is a logic diagram which represents a program that can compare
 
 Module 10 task 3 is a python program that compares a number to 100 and prints out whether it is greater than or less than 100.
 
-Python.png is a screenshot of the Module 10 task 3 program which shows both the code and the redultant output by the program.
+Python.png is a screenshot of the Module 10 task 3 program which shows both the code and the resultant output by the program.
 
