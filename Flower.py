@@ -1,0 +1,27 @@
+# Johnathon White 4/13/2025 
+# This is some code that has a class that represents flowers in general, this class is a blueprint or theoretical that represents the 
+    # framework attributes and methods of all its constituents. The plants can grow and bloom. 
+# In the code we define several types of flowers, roses, daisys and lillies. 
+class Flower: # This creates a class called "Flower" the class is a blueprint for specific instances or objects
+    def __init__(self, name): # "def" is the keyword for defining a function, in this we are using the "__init__" which initiates the class, and assigns values to object properties, in this case, the name of the object
+        self.name = name # assigns the value of the name argument to the name attribute of the object being created. 
+
+    def grow(self): # function where we are outlining a method "grow" within the "Flower" class
+        print("The " +self.name + " is growing.") # printing the method output that the flower is growing so the user might see it
+
+    def bloom(self): # function where we are outlining a method "bloom" within the "Flower" class
+        print("The " + self.name + " is blooming.") # printing the method output that the flower is blooming so the user might see it
+ 
+def main(): # defines a function named "main" as the starting point of the program where it will follow the "def"s and initialize into objects and then follow the grow and bloom functions where it is printed to the user what is happening with the individual objects
+    flower1 = Flower("Rose") # variable"flower 1" is named "Rose" creating an object
+    flower1.grow() # variable "flower 1" is assigned a method called grow 
+    flower1.bloom() # varible "flower 1" is assigned a method called bloom
+    flower2 = Flower("Daisy") # variable "flower 2" is named "Daisy" creating an object
+    flower2.grow() # varible "flower 2" is assigned a method called grow
+    flower2.bloom() # varible "flower 2" is assigned a method called bloom
+    flower3 = Flower("Lilly") # variable "flower 3" is named "Lilly" creating an object
+    flower3.grow() # varible "flower 3" is assigned a method called grow 
+    flower3.bloom() # varible "flower 3" is assigned a method called bloom
+
+if __name__ == "__main__": # if the python code above is being run as the main program, this executes the "main" function
+  main() # if the "if" condition is true and this code is meant to be executed, this line calls the main() function to begin which is "def main():"
