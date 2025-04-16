@@ -20,3 +20,7 @@ JohnathonWhiteFlowerClass.pdf This is a visualization of an OOP (Object Oriented
 PythonOOP.png is a screenshot of some object oriented python code that defines a class of flowers and expains each part of the code
 
 Flower.py is the raw text file of some object oriented python code that defines a class of flowers and expains each part of the code
+
+## Week 5 of IT 1025
+
+NetworkDesign.png is a visualization of a common home network design. 
