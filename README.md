@@ -28,3 +28,8 @@ NetworkDesign.png is a visualization of a common home network design.
 ## Week 6 of IT 1025
 
 SQLQuery.png is a example of some SQL code that I used to query a database. In it I selected all data from the table OrderDetails where the order quantity is greater than 20 and then sorted the order by ProductID. This produced a table of the resulting Order Details. 
+
+## Week 7 of IT 1025
+
+MyHTML.png is a example of HTML programming to create a website with included hyperlink to the previously made MyWebsiteLogo.png
+
